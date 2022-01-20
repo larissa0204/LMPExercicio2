@@ -9,7 +9,8 @@
 <body>
  Primeira pagina HTML
  <%
-     out.println("Olá mundo!");  
+     out.println("Olá mundo!"); 
+ 
  %>
  <h1>A data de hoje é:<%=today() %></h1>
  
